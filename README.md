@@ -1,6 +1,6 @@
 # TaintTracker
 
-## Now:
+## Now
 A tracker for analyzing senstive parameter a method.(Leveraged by Taint Analysis)
 
 ## Future
